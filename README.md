@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lrb7dev
 - 👀 I’m interested in learning and contribuite with WEB DEVELOPMENT
 - 🌱 I’m currently learning HTML, CSS AND JAVASCRIPT
-- 💞️ I’m looking to collaborate on everyone as far as i can
+- :checkered_flag: I’m looking to collaborate on everyone as far as i can
 
 
 <!---
