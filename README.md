@@ -4,7 +4,7 @@
 - :desktop_computer: currently I'm use the O.S. Fedora 36 Workstation
 - :checkered_flag: I’m looking to collaborate on everyone as far as I can
 <p align="center">
-  <img src="./front-end-banner.jpg" width="350" height:"350" title="front-end image">
+  <img src="./front-end-icon-simple-element-illustration-front-end-concept-symbol-design-can-be-used-web-mobile_159242-7914.webp" width="200" height:"200" title="front-end image">
 </p>
 
 <!---
