@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @lrb7dev
-- 👀 I’m interested in learning and contribuite with WEB DEVELOPMENT
+- 👀 I’m interested in learning and contribuite with <strong>WEB DEVELOPMENT</strong>
 - 🌱 I’m currently learning <strong>HTML5, CSS3, JS, NodeJS, React, NextJS</strong>
+- :desktop_computer: currently I'm use the O.S. Fedora 36 Workstation
 - :checkered_flag: I’m looking to collaborate on everyone as far as I can
 
 
